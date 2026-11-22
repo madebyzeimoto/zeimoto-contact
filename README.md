@@ -6,7 +6,7 @@ styling stays with the host project.
 
 ## Installation
 
-Requires PHP 8.5 and Kirby 5.6.1 or later within Kirby 5.
+Requires PHP 8.5 and Kirby 6.
 The Composer package is `zeimoto/contact` and installs into
 `site/plugins/zeimoto-contact`. Release versions come from Git tags.
 
